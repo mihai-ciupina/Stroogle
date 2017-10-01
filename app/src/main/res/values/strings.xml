@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stroogle</string>
+
+    <string name="register_title">Register</string>
+    <string name="login_title">Login</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnLogin">"Login  >"</string>
+    <string name="btnRegisterAsGuest">"Skip and play  >"</string>
+
+    <string name="btnRegister_login">"Register  >"</string>
+    <string name="btnLogin_login">Login</string>
+    <string name="btnRegisterAsGuest_login">"Skip and play  >"</string>
+</resources>
